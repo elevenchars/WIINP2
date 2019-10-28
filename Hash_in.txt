@@ -1,0 +1,30 @@
+Q
+23
+0
+I Salvage 123456
+I Garbage 3456789012
+I refuse 4567890123
+P
+I waste 5678901234
+I scrap 6789012345
+I drivel 7890123456
+I refuse 5567890123
+I refuse 6567890123
+S Junk
+S key
+D Salvage
+D trash
+I scraps 89012345678
+I obsolete 9012345678
+I deprecated 0123456789
+S trash
+S Salvage
+I Salvage 1234567899
+S Junk
+S refuse
+S Salvage
+P
+Q
+H ABCD
+H abcdefghijklmnopqrst
+E

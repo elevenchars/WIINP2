@@ -1,0 +1,256 @@
+D
+31
+7
+I lpqspnywzjfgarzzwrgh 1647579227
+I sqywuvpvaiqhulqhxpke 309633408
+I oqtsninlaytgvdcfrymo 573200951
+I uqwhuppnbicalorwfhcv 790294314
+I bjrlzqlarkuvahdnugay 1529963259
+I ruecdwchawxnzsdtzkge 417138695
+I fbjfwhehqerupgeacuud 1873382657
+I nfauslfprifltumdwiei 197237695
+I lyafllwvpzlghpmcxqdj 1995132920
+I gcpfvakrewnxdabukmbd 424167134
+I vsodgbftabrhqgigczyx 181722312
+I sjbovrosdbhlhlpqcach 2100274968
+I jxocfgitpuenigvywlcn 456692958
+I yqpnukzclrupkvjfptjv 1458355493
+I efgafkkodcqiayycouhh 177594728
+I qwybmihaolxhmzyzskor 227243134
+I fdbfzbboccjwmaduakui 692348865
+I btyatezpybrfxvobejon 344639317
+I wqqofbalnvyuxjhpjpii 198176216
+I hthikciqsmgmclabtkuu 2044290135
+I jgpkavzlbilkifvkvseg 322151436
+I pnksjuhuwqgevlkgmcri 274170831
+I sjluiebolvsklcbbynlu 1301897611
+I yedrrduzdcmyjubmukrl 176784129
+I torvchoixidoiiehpqxr 1092310259
+I tvzzgqdpebhkhvykdfco 487911046
+I fyqphvribxhamgylpgvu 238068855
+S bjrlzqlarkuvahdnugay
+S btyatezpybrfxvobejon
+S efgafkkodcqiayycouhh
+S fbjfwhehqerupgeacuud
+S fdbfzbboccjwmaduakui
+S fyqphvribxhamgylpgvu
+S gcpfvakrewnxdabukmbd
+S hthikciqsmgmclabtkuu
+S jgpkavzlbilkifvkvseg
+S jxocfgitpuenigvywlcn
+S lpqspnywzjfgarzzwrgh
+S lyafllwvpzlghpmcxqdj
+S nfauslfprifltumdwiei
+S oqtsninlaytgvdcfrymo
+S pnksjuhuwqgevlkgmcri
+S qwybmihaolxhmzyzskor
+S ruecdwchawxnzsdtzkge
+S sjbovrosdbhlhlpqcach
+S sjluiebolvsklcbbynlu
+S sqywuvpvaiqhulqhxpke
+S torvchoixidoiiehpqxr
+S tvzzgqdpebhkhvykdfco
+S uqwhuppnbicalorwfhcv
+S vsodgbftabrhqgigczyx
+S wqqofbalnvyuxjhpjpii
+S yedrrduzdcmyjubmukrl
+S yqpnukzclrupkvjfptjv
+D yqpnukzclrupkvjfptjv
+D yedrrduzdcmyjubmukrl
+D wqqofbalnvyuxjhpjpii
+D vsodgbftabrhqgigczyx
+D uqwhuppnbicalorwfhcv
+D tvzzgqdpebhkhvykdfco
+D torvchoixidoiiehpqxr
+D sqywuvpvaiqhulqhxpke
+D sjluiebolvsklcbbynlu
+D sjbovrosdbhlhlpqcach
+D ruecdwchawxnzsdtzkge
+D qwybmihaolxhmzyzskor
+D pnksjuhuwqgevlkgmcri
+D oqtsninlaytgvdcfrymo
+D nfauslfprifltumdwiei
+D lyafllwvpzlghpmcxqdj
+D lpqspnywzjfgarzzwrgh
+D jxocfgitpuenigvywlcn
+D jgpkavzlbilkifvkvseg
+D hthikciqsmgmclabtkuu
+D gcpfvakrewnxdabukmbd
+D fyqphvribxhamgylpgvu
+D fdbfzbboccjwmaduakui
+D fbjfwhehqerupgeacuud
+D efgafkkodcqiayycouhh
+D btyatezpybrfxvobejon
+D bjrlzqlarkuvahdnugay
+P
+Q
+C
+I feuznzpkfxqttlhcwrom 1880041419
+I wsismwosanfvimacxcsi 906665868
+I gwkgvnanhgahexbxlnbh 1436831170
+I voztxteoxpzgjtmmujaz 1988943792
+I frhuebsdvvrxrvrielrw 185421327
+I sgirhhjrsbbipdmfljrb 596029046
+I rguyihhtopzamanzeprx 1736051221
+I kpbjtarkoobxevwddnfw 625747120
+I gpianjqwkbheqgxrhbvj 1181586028
+I tmpzjfwnhenvlzhxbnya 1864753459
+I dnrlejnohcvzljoihuji 1130244955
+I gbjkegbnhfjxeeusijkl 1608799542
+I xwwiiuwxfvnoyxrkfxhq 1102896672
+I zzwkicefbdaewcdwsegd 513286424
+I tjazdeqfxdxkcejizyeg 267572458
+I tczpwlgztjgzvlmbuxjp 453098953
+I maczqsmoovgmwmsblkbr 1770515075
+I miuhajrnvqvcjmcwnejd 268230110
+I jfwksqacfxowfkoriilr 1035090649
+I kemurzqqvknkfdsgljfl 1535505624
+I azxiciaannttcbkhsvlx 1514858142
+I rjiozclmqkmwwgwulfie 1049351125
+I ramuppijcwhslofjtfbi 1368894060
+I ovezecozgzpuuhkhmztc 1833119872
+I vuqbbwqfizimfbriwuot 1794812138
+I jfbulrpvuipnqypxzucx 535584181
+I eezjlabfycxnaljrcgjc 898850717
+S azxiciaannttcbkhsvlx
+S dnrlejnohcvzljoihuji
+S eezjlabfycxnaljrcgjc
+S feuznzpkfxqttlhcwrom
+S frhuebsdvvrxrvrielrw
+S gbjkegbnhfjxeeusijkl
+S gpianjqwkbheqgxrhbvj
+S gwkgvnanhgahexbxlnbh
+S jfbulrpvuipnqypxzucx
+S jfwksqacfxowfkoriilr
+S kemurzqqvknkfdsgljfl
+S kpbjtarkoobxevwddnfw
+S maczqsmoovgmwmsblkbr
+S miuhajrnvqvcjmcwnejd
+S ovezecozgzpuuhkhmztc
+S ramuppijcwhslofjtfbi
+S rguyihhtopzamanzeprx
+S rjiozclmqkmwwgwulfie
+S sgirhhjrsbbipdmfljrb
+S tczpwlgztjgzvlmbuxjp
+S tjazdeqfxdxkcejizyeg
+S tmpzjfwnhenvlzhxbnya
+S voztxteoxpzgjtmmujaz
+S vuqbbwqfizimfbriwuot
+S wsismwosanfvimacxcsi
+S xwwiiuwxfvnoyxrkfxhq
+S zzwkicefbdaewcdwsegd
+D zzwkicefbdaewcdwsegd
+D xwwiiuwxfvnoyxrkfxhq
+D wsismwosanfvimacxcsi
+D vuqbbwqfizimfbriwuot
+D voztxteoxpzgjtmmujaz
+D tmpzjfwnhenvlzhxbnya
+D tjazdeqfxdxkcejizyeg
+D tczpwlgztjgzvlmbuxjp
+D sgirhhjrsbbipdmfljrb
+D rjiozclmqkmwwgwulfie
+D rguyihhtopzamanzeprx
+D ramuppijcwhslofjtfbi
+D ovezecozgzpuuhkhmztc
+D miuhajrnvqvcjmcwnejd
+D maczqsmoovgmwmsblkbr
+D kpbjtarkoobxevwddnfw
+D kemurzqqvknkfdsgljfl
+D jfwksqacfxowfkoriilr
+D jfbulrpvuipnqypxzucx
+D gwkgvnanhgahexbxlnbh
+D gpianjqwkbheqgxrhbvj
+D gbjkegbnhfjxeeusijkl
+D frhuebsdvvrxrvrielrw
+D feuznzpkfxqttlhcwrom
+D eezjlabfycxnaljrcgjc
+D dnrlejnohcvzljoihuji
+D azxiciaannttcbkhsvlx
+P
+Q
+C
+I shetnvhepguossmwnxtv 1241244906
+I bpmwemusevtddoddrtdm 1247475493
+I isqufztwzdqzmjlojles 817869841
+I jfkraicermygyrdmedoz 694092230
+I utaiiptbbbbxabzcvhou 1392254286
+I xvshixrkfrcvkzvqhpow 207392334
+I xkksymikiccorufdhytt 1014832233
+I dixujynnimwjapvjashr 845726059
+I edmcyhlhxrsbowayzkiz 745644441
+I nyuyxwrtltqqdoujdabe 1522447553
+I sruxpdaurxusjsqoxhlt 2104207835
+I eiylqphlllnjrsrqetdk 125120804
+I muxsposkcyyalawuyage 672766632
+I miypbqivzvbznrvxiwzo 4931694
+I cnpixofmfmbelhudsgoj 786682230
+I xqynfslkygvywsxmitkj 1735136168
+I blqesahpukfeztmekjti 2072905518
+I cpryzkjlftemykgeprai 1817778996
+I rdzaeagaxahafzigjpsb 699642924
+I htslskcguafrccvkbyxf 1201830132
+I ubzryusdyabrdthcprjg 236122937
+I wzkqytoqseoqzugayhum 1391488859
+I chntbkhtuauwclmhvfum 371433570
+I cuaimilckjjglkjrcyjl 1543283867
+I ivvoetzkkkfoesgnwbbi 2094728268
+I uijkiriwfutwrrrrzwop 487900719
+I smnljghmyhylgkamrwxs 541912358
+S blqesahpukfeztmekjti
+S bpmwemusevtddoddrtdm
+S chntbkhtuauwclmhvfum
+S cnpixofmfmbelhudsgoj
+S cpryzkjlftemykgeprai
+S cuaimilckjjglkjrcyjl
+S dixujynnimwjapvjashr
+S edmcyhlhxrsbowayzkiz
+S eiylqphlllnjrsrqetdk
+S htslskcguafrccvkbyxf
+S isqufztwzdqzmjlojles
+S ivvoetzkkkfoesgnwbbi
+S jfkraicermygyrdmedoz
+S miypbqivzvbznrvxiwzo
+S muxsposkcyyalawuyage
+S nyuyxwrtltqqdoujdabe
+S rdzaeagaxahafzigjpsb
+S shetnvhepguossmwnxtv
+S smnljghmyhylgkamrwxs
+S sruxpdaurxusjsqoxhlt
+S ubzryusdyabrdthcprjg
+S uijkiriwfutwrrrrzwop
+S utaiiptbbbbxabzcvhou
+S wzkqytoqseoqzugayhum
+S xkksymikiccorufdhytt
+S xqynfslkygvywsxmitkj
+S xvshixrkfrcvkzvqhpow
+D xvshixrkfrcvkzvqhpow
+D xqynfslkygvywsxmitkj
+D xkksymikiccorufdhytt
+D wzkqytoqseoqzugayhum
+D utaiiptbbbbxabzcvhou
+D uijkiriwfutwrrrrzwop
+D ubzryusdyabrdthcprjg
+D sruxpdaurxusjsqoxhlt
+D smnljghmyhylgkamrwxs
+D shetnvhepguossmwnxtv
+D rdzaeagaxahafzigjpsb
+D nyuyxwrtltqqdoujdabe
+D muxsposkcyyalawuyage
+D miypbqivzvbznrvxiwzo
+D jfkraicermygyrdmedoz
+D ivvoetzkkkfoesgnwbbi
+D isqufztwzdqzmjlojles
+D htslskcguafrccvkbyxf
+D eiylqphlllnjrsrqetdk
+D edmcyhlhxrsbowayzkiz
+D dixujynnimwjapvjashr
+D cuaimilckjjglkjrcyjl
+D cpryzkjlftemykgeprai
+D cnpixofmfmbelhudsgoj
+D chntbkhtuauwclmhvfum
+D bpmwemusevtddoddrtdm
+D blqesahpukfeztmekjti
+P
+Q
+C
+E
