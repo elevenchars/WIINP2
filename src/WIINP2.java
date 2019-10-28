@@ -301,7 +301,7 @@ class HashTable {
 public class WIINP2 {
     public static void main(String[] args) throws FileNotFoundException {
 
-        Scanner input = new Scanner(new File("Hash_in.txt"));
+        Scanner input = new Scanner(new File("hash1.txt"));
         String[] command;
         char mode = input.nextLine().charAt(0);
         int size = input.nextInt();
